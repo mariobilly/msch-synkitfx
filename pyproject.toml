@@ -13,7 +13,6 @@ Documentation = "https://github.com/mariobilly/msch-synkitfx/blob/main/docs/NODE
 "Bug Tracker" = "https://github.com/mariobilly/msch-synkitfx/issues"
 
 [tool.comfy]
-# Set to the publisher ID you own at registry.comfy.org before publishing.
-PublisherId = ""
+PublisherId = "mariobilly"
 DisplayName = "MSCH Synkit FX"
 

@@ -3,7 +3,7 @@
 GitHub source and ComfyUI Manager discovery are separate steps. The [Comfy Registry publishing guide](https://docs.comfy.org/registry/publishing) describes the service that powers Manager.
 
 1. Sign in at https://registry.comfy.org and create or select your publisher.
-2. Set `PublisherId` in `pyproject.toml` to that publisher's exact ID. The empty value intentionally prevents publishing under an unverified identity.
+2. The confirmed publisher ID `mariobilly` is configured in `pyproject.toml`. Use a publishing API key belonging to this publisher.
 3. Create a Registry publishing API key. In this GitHub repository, add it as the Actions secret `REGISTRY_ACCESS_TOKEN`. Do not commit it or paste it into a workflow.
 4. Push the metadata change, then run **Publish to Comfy Registry** from the Actions tab. The action also runs when a GitHub release is published.
 5. Check the completed action and the node's registry listing before announcing Manager availability. Registry acceptance and indexing are external steps.

@@ -47,7 +47,7 @@ Two chainable CPU effects. Use the frames output between effects and VIDEO for S
 
 ## ComfyUI Manager
 
-The release includes Comfy Registry metadata and a GitHub publishing action. **Registry publication is pending publisher setup**. A separate ComfyUI Manager node-list registration is being submitted; listing is pending maintainer acceptance. Git installation works independently. See [PUBLISHING.md](PUBLISHING.md).
+The release includes Comfy Registry metadata and a GitHub publishing action. **Publisher `mariobilly` is configured; Registry publication is pending the publishing secret and a successful publish run**. A separate [ComfyUI Manager node-list registration](https://github.com/Comfy-Org/ComfyUI-Manager/pull/3247) has been submitted; listing is pending maintainer acceptance. Git installation works independently. See [PUBLISHING.md](PUBLISHING.md).
 
 ## Validation
 
