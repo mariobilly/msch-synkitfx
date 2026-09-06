@@ -51,7 +51,7 @@ The release includes Comfy Registry metadata and a GitHub publishing action. **R
 
 ## Validation
 
-Imports and input schemas were checked against the local ComfyUI environment with Python 3.13, PyTorch 2.10 and CUDA available. Example render coverage is documented per workflow; this is not a claim of compatibility testing on every platform or of full MiniMax H3 model-generation validation.
+Imports and input schemas were checked against the local ComfyUI environment with Python 3.12.10, PyTorch 2.10 and CUDA available. Example render coverage is documented per workflow; this is not a claim of compatibility testing on every platform or of full MiniMax H3 model-generation validation.
 
 ## License
 
