@@ -15,3 +15,7 @@ The registry archive excludes large previews and development files via `.comfyig
 ## Manager node-list registration
 
 The [Manager repository also accepts node-list registration pull requests](https://github.com/Comfy-Org/ComfyUI-Manager#how-to-register-your-custom-node-into-comfyui-manager). This is separate from publishing versioned Registry archives and still requires maintainer acceptance. The collection index tracks the registration request.
+
+## Current release
+
+Version `0.1.0` was uploaded successfully on 2026-09-06 through [GitHub Actions](https://github.com/mariobilly/msch-synkitfx/actions/runs/34037796890). The publisher is `mariobilly`, the repository publishing secret is configured, and the uploaded ZIP was downloaded and checked. Registry reported `NodeVersionStatusPending` at verification. Further releases require a new version number; do not republish `0.1.0`.

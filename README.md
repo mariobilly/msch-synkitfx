@@ -47,7 +47,7 @@ Two chainable CPU effects. Use the frames output between effects and VIDEO for S
 
 ## ComfyUI Manager
 
-The release includes Comfy Registry metadata and a GitHub publishing action. **Publisher `mariobilly` is configured; Registry publication is pending the publishing secret and a successful publish run**. A separate [ComfyUI Manager node-list registration](https://github.com/Comfy-Org/ComfyUI-Manager/pull/3247) has been submitted; listing is pending maintainer acceptance. Git installation works independently. See [PUBLISHING.md](PUBLISHING.md).
+The release includes Comfy Registry metadata and a GitHub publishing action. **Version 0.1.0 was uploaded successfully to [Comfy Registry](https://registry.comfy.org/nodes/msch-synkitfx) under publisher `mariobilly` on 2026-09-06.** Registry reported `Pending` at verification; Manager installation availability is not yet confirmed. A separate [ComfyUI Manager node-list registration](https://github.com/Comfy-Org/ComfyUI-Manager/pull/3247) has been submitted; listing is pending maintainer acceptance. Git installation works independently. See [PUBLISHING.md](PUBLISHING.md).
 
 ## Validation
 
