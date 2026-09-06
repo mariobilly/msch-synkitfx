@@ -4,9 +4,11 @@ Animated metaball halftones and feature-tracking HUD boxes with labels, connecto
 
 [Node reference](docs/NODES.md) · [Example workflows and results](examples/README.md) · [Publishing guide](PUBLISHING.md)
 
-![Actual demo output](examples/results/demo.png)
+<!-- MSCH SHOWCASE -->
+[![MSCH Synkit FX showcase](examples/showcase/outputs/red_moon_blob_tracker_00001__preview.jpg)](examples/showcase/README.md)
 
-[Play / download the rendered demo](examples/results/demo.mp4)
+**[View the showcase: videos, images and workflows](examples/showcase/README.md)**
+<!-- /MSCH SHOWCASE -->
 
 ## Included nodes
 
