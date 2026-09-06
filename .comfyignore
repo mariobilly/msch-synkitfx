@@ -1,0 +1,8 @@
+.github/
+tests/
+docs/
+examples/results/
+examples/inputs/
+previews/
+example_output.mp4
+*.pdf

@@ -1,0 +1,19 @@
+[project]
+name = "msch-synkitfx"
+version = "0.1.0"
+description = "Animated metaball halftones and feature-tracking HUD boxes with labels, connectors, native VIDEO and overlay masks."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+dependencies = ["numpy", "torch", "opencv-python"]
+
+[project.urls]
+Repository = "https://github.com/mariobilly/msch-synkitfx"
+Documentation = "https://github.com/mariobilly/msch-synkitfx/blob/main/docs/NODES.md"
+"Bug Tracker" = "https://github.com/mariobilly/msch-synkitfx/issues"
+
+[tool.comfy]
+# Set to the publisher ID you own at registry.comfy.org before publishing.
+PublisherId = ""
+DisplayName = "MSCH Synkit FX"
+
